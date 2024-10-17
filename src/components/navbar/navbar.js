@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./styles.module.css";
 import Link from "next/link";
 
-// Added comments in the navbar 
+// modified the placed comment in the Navbar 
 
 const Navbar = () => {
     return (
