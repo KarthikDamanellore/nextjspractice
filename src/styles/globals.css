@@ -1,4 +1,5 @@
 * {
+  /* REMOVED THE DEFAULt GAP EXISTING IN THE BROWSER */
   margin: 0;
   /* Box Sizing border box */
   box-sizing: border-box;
